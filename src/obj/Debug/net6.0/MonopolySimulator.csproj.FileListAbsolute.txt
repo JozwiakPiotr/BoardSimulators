@@ -1,0 +1,15 @@
+C:\repos\MonopolySimulator\obj\Debug\net6.0\MonopolySimulator.csproj.AssemblyReference.cache
+C:\repos\MonopolySimulator\obj\Debug\net6.0\MonopolySimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\MonopolySimulator\obj\Debug\net6.0\MonopolySimulator.AssemblyInfoInputs.cache
+C:\repos\MonopolySimulator\obj\Debug\net6.0\MonopolySimulator.AssemblyInfo.cs
+C:\repos\MonopolySimulator\obj\Debug\net6.0\MonopolySimulator.csproj.CoreCompileInputs.cache
+C:\repos\MonopolySimulator\bin\Debug\net6.0\MonopolySimulator.exe
+C:\repos\MonopolySimulator\bin\Debug\net6.0\MonopolySimulator.deps.json
+C:\repos\MonopolySimulator\bin\Debug\net6.0\MonopolySimulator.runtimeconfig.json
+C:\repos\MonopolySimulator\bin\Debug\net6.0\MonopolySimulator.dll
+C:\repos\MonopolySimulator\bin\Debug\net6.0\ref\MonopolySimulator.dll
+C:\repos\MonopolySimulator\bin\Debug\net6.0\MonopolySimulator.pdb
+C:\repos\MonopolySimulator\obj\Debug\net6.0\MonopolySimulator.dll
+C:\repos\MonopolySimulator\obj\Debug\net6.0\ref\MonopolySimulator.dll
+C:\repos\MonopolySimulator\obj\Debug\net6.0\MonopolySimulator.pdb
+C:\repos\MonopolySimulator\obj\Debug\net6.0\MonopolySimulator.genruntimeconfig.cache
